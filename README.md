@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a youngster and deeply passionate of coding and pursuing my Bachelor's Engineering in Computer Science and Engineering.<br>
+I am a youngster and deeply passionate of coding and curious about Artificial Intelligence, Cloud Computing & Machine Learning and  pursuing my Bachelor's Engineering in Computer Science and Engineering.<br>
 
 
 # 💻 Tech Stack:
