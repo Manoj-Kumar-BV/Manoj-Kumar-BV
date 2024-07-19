@@ -14,6 +14,4 @@ I am a young coder from India and deeply passionate of coding and curious about 
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Manoj-Kumar-BV&icon=0&color=12)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
