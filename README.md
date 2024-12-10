@@ -9,11 +9,12 @@ I am a young coder from India and deeply passionate of coding and curious about 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Manoj-Kumar-BV&theme=city_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-Kumar-BV&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/ManojKumarBV?theme=unicorn&font=Rubik&ext=heatmap)
+
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Manoj-Kumar-BV&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-# LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/ManojKumarBV?theme=light&font=Rubik)
 
 ---
 ## 🌐Socials
