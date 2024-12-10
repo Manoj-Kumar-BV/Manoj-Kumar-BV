@@ -12,6 +12,9 @@ I am a young coder from India and deeply passionate of coding and curious about 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Manoj-Kumar-BV&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
+# LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/ManojKumarBV?theme=light&font=Rubik)
+
 ---
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thenameismanoj.__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manoj-kumar-327689340/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@_thenameismanoj) 
