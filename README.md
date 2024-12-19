@@ -1,5 +1,5 @@
 # 💫 About Me:
-*I am a Passionate coder and Tech Enthusiast*, curious about Artificial Intelligence, Cloud Computing & Machine Learning and currently pursuing my Bachelor's Engineering Degree in Computer Science and Engineering.
+*I am a passionate coder and tech enthusiast*, curious about Artificial Intelligence, Cloud Computing, and Machine Learning, and currently pursuing my Bachelor's degree in Computer Science and Engineering.
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Manoj-Kumar-BV&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
