@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a young coder from India and deeply passionate of coding and curious about Artificial Intelligence, Cloud Computing & Machine Learning and pursuing my Bachelor's Engineering in Computer Science and Engineering.
+*A Passionate of coder* and curious about Artificial Intelligence, Cloud Computing & Machine Learning and pursuing my Bachelor's Engineering in Computer Science and Engineering.
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Manoj-Kumar-BV&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
