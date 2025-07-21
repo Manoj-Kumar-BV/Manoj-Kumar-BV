@@ -57,6 +57,10 @@
 <h3>🌐 Connect with Me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/bvmanojkumar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30"/></a> &nbsp;
-  <a href="https://instagram.com/thenameismanoj.__" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" height="30"/></a> &nbsp;
-  <a href="https://twitter.com/@_thenameismanoj" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" height="30"/></a>
+  <a href="https://instagram.com/thenameismanoj.__" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-000000.svg?logo=instagram&logoColor=white" height="30"/>
+</a>
+<a href="https://x.com/the_nameismanoj" target="_blank"><img src="https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white" height="30"/>
+</a>
+</a>
 </p>
