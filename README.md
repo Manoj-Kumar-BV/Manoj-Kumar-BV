@@ -1,6 +1,8 @@
 # 💫 About Me:
 *I am a passionate coder and tech enthusiast*, curious about Artificial Intelligence, Cloud Computing, and Machine Learning, and currently pursuing my Bachelor's degree in Computer Science and Engineering.
 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Manoj-Kumar-BV&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Manoj-Kumar-BV&theme=city_light&hide_border=false)<br/>
