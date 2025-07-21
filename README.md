@@ -60,7 +60,3 @@
   <a href="https://instagram.com/thenameismanoj.__" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" height="30"/></a> &nbsp;
   <a href="https://twitter.com/@_thenameismanoj" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" height="30"/></a>
 </p>
-
----
-
-> ⚡ _Last updated: {{ today’s date }}_
