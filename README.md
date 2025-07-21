@@ -1,55 +1,66 @@
-<!-- Header GIF -->
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<h1 align="center">Hi 👋, I'm Manoj Kumar B V</h1>
+<h3 align="center">Passionate Coder | AI Enthusiast | Computer Science Student</h3>
 
-# 💫 About Me
-I’m a passionate **coder** and **tech enthusiast** exploring the world of  
-**Artificial Intelligence, Machine Learning**, and **Cloud Computing**.  
-Currently pursuing my **Bachelor's degree in Computer Science and Engineering**.
+<br>
 
----
-
-# 💻 Tech Stack  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)  
-
-### 🔬 Data & AI Tools  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)  
-
-### 🎨 Design & Tools  
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)  
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)  
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+<p align="center">
+  <img align="center" width="400px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
+</p>
 
 ---
 
-# 📈 GitHub Stats  
+### 👨‍💻 About Me  
+- 🎓 I’m a **Computer Science and Engineering** student @ **RV College of Engineering**
+- 🔭 Exploring areas in **Artificial Intelligence**, **Machine Learning**, and **Cloud Computing**
+- 💡 Curious about building real-world, scalable tech solutions
+- 🌐 Connect with Me: **[LinkedIn](https://www.linkedin.com/in/bvmanojkumar/)** | **[Instagram](https://instagram.com/thenameismanoj.__)** | **[X](https://x.com/the_nameismanoj)** | **[Gmail](mailto:manojkumar69bv@gmail.com)** 
 
-<!-- GitHub Profile Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manoj-Kumar-BV&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)
-
-<!-- Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manoj-Kumar-BV&theme=city_light&hide_border=false)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-Kumar-BV&theme=city_light&hide_border=false&layout=compact)
 
 ---
 
-<!-- Optional LeetCode Stats
-## 📚 LeetCode Profile
-![LeetCode Stats](https://leetcard.jacoblin.cool/ManojKumarBV?theme=unicorn&font=Rubik&ext=heatmap)
--->
-
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bvmanojkumar/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thenameismanoj.__)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@_thenameismanoj)  
+### 🌟 Fun Facts About Me!
+- 💻 I love exploring and building creative tech tools  
+- 🧠 Always hungry to learn something new  
+- 🏞️ Enjoy trekking, team challenges
+- 🎨 Design & editing enthusiast (Photoshop/Premiere)  
+- 🛠 Problem solver 
 
 ---
+
+<h3 align="left">🧰 Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp;
+  <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;
+  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;
+  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> &nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> &nbsp;
+  <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> &nbsp;
+  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a> &nbsp;
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/> </a> &nbsp;
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;
+  <a href="https://github.com/" target="_blank"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/> </a>
+</p>
+
+---
+
+<h3>📊 GitHub Stats:</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Manoj-Kumar-BV&theme=city_light&hide_border=false&include_all_commits=false&count_private=false" />
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manoj-Kumar-BV&theme=city_light&hide_border=false" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-Kumar-BV&theme=city_light&hide_border=false&layout=compact" />
+
+---
+
+<h3>🌐 Connect with Me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/bvmanojkumar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30"/></a> &nbsp;
+  <a href="https://instagram.com/thenameismanoj.__" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" height="30"/></a> &nbsp;
+  <a href="https://twitter.com/@_thenameismanoj" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" height="30"/></a>
+</p>
+
+---
+
+> ⚡ _Last updated: {{ today’s date }}_
