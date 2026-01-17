@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manoj Kumar B V</h1>
-<h3 align="center">Passionate Coder | AI Enthusiast | Computer Science Student</h3>
+<h3 align="center">Passionate Coder | AI Enthusiast | Tech Enthusiast | Computer Science Student</h3>
 
 <br>
 
